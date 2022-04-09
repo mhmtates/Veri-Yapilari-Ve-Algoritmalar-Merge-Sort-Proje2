@@ -1,4 +1,4 @@
-# Merge Sort Proje 2 #
+# Veri Yapıları ve Algoritmalar Merge Sort Proje 2 #
 Q1)[16,21,11,8,12,22]
 
   1.	[16,21,11]    [8,12,22]
